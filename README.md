@@ -4,7 +4,8 @@ The project is a basic calculator application created using the tkinter library.
 # Facility
 
 No additional installation is required apart from Python and Tkinter.
-Project description
+
+# Project description
 
 The basic calculator app is a graphical interface that allows the user to perform simple math operations like add, subtract, multiply, and divide. The calculator has number and operation buttons, and displays the result in a label on the screen.
 functions
